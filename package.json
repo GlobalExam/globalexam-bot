@@ -1,0 +1,8 @@
+{
+  "name": "globalexam-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "puppeteer": "^11.0.0"
+  }
+}
